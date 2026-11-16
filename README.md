@@ -1,7 +1,7 @@
 <h1 align="center">Adinath Chaudhari</h1>
 
 <p align="center">
-  <strong>AI Product Manager · Head of Product and AI</strong><br>
+  <strong>Product and AI</strong><br>
   <em>Engineering at IIT Roorkee, management at INSEAD. I write the spec, then I build the tool.</em>
 </p>
 
