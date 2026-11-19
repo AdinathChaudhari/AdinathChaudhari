@@ -20,9 +20,9 @@ Most began as a problem of my own, however niche. When a project already fits my
 Three tools for working with AI agents and models, newest first.
 
 <p align="center">
-  <a href="https://github.com/AdinathChaudhari/website-mcp"><img src="assets/website-mcp.jpg" width="32%" alt="website-mcp: a browser window with a dotted path that becomes a small glowing tool piece"></a>
-  <a href="https://github.com/AdinathChaudhari/preflight-review"><img src="assets/preflight-review.jpg" width="32%" alt="preflight-review: a paper airplane on a runway of code lines beside a checklist"></a>
-  <a href="https://github.com/AdinathChaudhari/i-cant-draw"><img src="assets/i-cant-draw.jpg" width="32%" alt="i-cant-draw: a tangled scribble with an arrow leading to a tidy speech bubble of text lines"></a>
+  <a href="https://github.com/AdinathChaudhari/website-mcp"><img src="assets/website-mcp-rounded.png" width="32%" alt="website-mcp: a browser window with a dotted path that becomes a small glowing tool piece"></a>
+  <a href="https://github.com/AdinathChaudhari/preflight-review"><img src="assets/preflight-review-rounded.png" width="32%" alt="preflight-review: a paper airplane on a runway of code lines beside a checklist"></a>
+  <a href="https://github.com/AdinathChaudhari/i-cant-draw"><img src="assets/i-cant-draw-rounded.png" width="32%" alt="i-cant-draw: a tangled scribble with an arrow leading to a tidy speech bubble of text lines"></a>
 </p>
 
 - **[website-mcp](https://github.com/AdinathChaudhari/website-mcp)** turns a website task into a saved, tested tool that runs with no model.<br>
@@ -40,9 +40,9 @@ Three tools for working with AI agents and models, newest first.
 Built for my own use first.
 
 <p align="center">
-  <a href="https://github.com/AdinathChaudhari/audiobook-maker-pro"><img src="assets/audiobook-maker-pro.jpg" width="32%" alt="audiobook-maker-pro: a small character in headphones sitting beside a book marked with a sound wave"></a>
-  <a href="https://github.com/AdinathChaudhari/google-drive-suite"><img src="assets/google-drive-suite.jpg" width="32%" alt="google-drive-suite: Drivedeck, four self-hosted tools for Google Drive"></a>
-  <a href="https://github.com/AdinathChaudhari/markdown-studio"><img src="assets/markdown-studio.jpg" width="32%" alt="markdown-studio: a single sheet rising out of its app tile, plain marks becoming set type"></a>
+  <a href="https://github.com/AdinathChaudhari/audiobook-maker-pro"><img src="assets/audiobook-maker-pro-rounded.png" width="32%" alt="audiobook-maker-pro: a small character in headphones sitting beside a book marked with a sound wave"></a>
+  <a href="https://github.com/AdinathChaudhari/google-drive-suite"><img src="assets/google-drive-suite-rounded.png" width="32%" alt="google-drive-suite: Drivedeck, four self-hosted tools for Google Drive"></a>
+  <a href="https://github.com/AdinathChaudhari/markdown-studio"><img src="assets/markdown-studio-rounded.png" width="32%" alt="markdown-studio: a single sheet rising out of its app tile, plain marks becoming set type"></a>
 </p>
 
 - **[audiobook-maker-pro](https://github.com/AdinathChaudhari/audiobook-maker-pro)** turns a folder of audio, a YouTube video or a playlist into one chapterized audiobook, tuned for an iPod.<br>
