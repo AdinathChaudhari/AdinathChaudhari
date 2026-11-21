@@ -25,9 +25,9 @@ Three tools for building with AI agents, and for understanding what they built, 
   <a href="https://github.com/AdinathChaudhari/preflight-review"><img src="assets/preflight-review-rounded.png" width="32%" alt="preflight-review: a paper airplane on a runway of code lines beside a checklist"></a>
 </p>
 
-- **[teach-back](https://github.com/AdinathChaudhari/teach-back)** turns a codebase I built with AI into a four-level course I can answer from memory: pitch, whiteboard, "why not X?" and interview.<br>
-  *Why:* code an AI helped build is only mine if I can explain and defend it with no AI beside me.<br>
-  *Impact:* every claim in a course cites a line of the real code, and a separate agent checks it. The first course, on preflight-review, holds about 690 checked citations, and it keeps a clear line between what I decided and what the AI built.
+- **[teach-back](https://github.com/AdinathChaudhari/teach-back)** turns a codebase you built with AI into a four-level course you can answer from memory: pitch, whiteboard, "why not X?" and interview.<br>
+  *Why:* code an AI helped build is only yours if you can explain and defend it with no AI beside you.<br>
+  *Impact:* every claim in a course cites a line of the real code, and a separate agent checks it. The first course, on preflight-review, holds about 690 checked citations, and it keeps a clear line between what the developer decided and what the AI built.
 - **[website-mcp](https://github.com/AdinathChaudhari/website-mcp)** turns a website task into a saved, tested tool that runs with no model.<br>
   *Why:* an agent that re-reads the same site pays for a model on every run.<br>
   *Impact:* published on [npm](https://www.npmjs.com/package/website-mcp). The [demo tool](https://github.com/AdinathChaudhari/website-mcp#demo) passes 8 of 8 test cases with no model call.
