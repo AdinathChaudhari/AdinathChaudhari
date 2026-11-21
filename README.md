@@ -17,23 +17,23 @@ Most began as a problem of my own, however niche. When a project already fits my
 
 ## Latest projects
 
-Three tools for working with AI agents and models, newest first.
+Three tools for building with AI agents, and for understanding what they built, newest first.
 
 <p align="center">
+  <a href="https://github.com/AdinathChaudhari/teach-back"><img src="assets/teach-back-rounded.png" width="32%" alt="teach-back: code lines flowing into an open book whose pages rise as four steps"></a>
   <a href="https://github.com/AdinathChaudhari/website-mcp"><img src="assets/website-mcp-rounded.png" width="32%" alt="website-mcp: a browser window with a dotted path that becomes a small glowing tool piece"></a>
   <a href="https://github.com/AdinathChaudhari/preflight-review"><img src="assets/preflight-review-rounded.png" width="32%" alt="preflight-review: a paper airplane on a runway of code lines beside a checklist"></a>
-  <a href="https://github.com/AdinathChaudhari/i-cant-draw"><img src="assets/i-cant-draw-rounded.png" width="32%" alt="i-cant-draw: a tangled scribble with an arrow leading to a tidy speech bubble of text lines"></a>
 </p>
 
+- **[teach-back](https://github.com/AdinathChaudhari/teach-back)** turns a codebase I built with AI into a four-level course I can answer from memory: pitch, whiteboard, "why not X?" and interview.<br>
+  *Why:* code an AI helped build is only mine if I can explain and defend it with no AI beside me.<br>
+  *Impact:* every claim in a course cites a line of the real code, and a separate agent checks it. The first course, on preflight-review, holds about 690 checked citations, and it keeps a clear line between what I decided and what the AI built.
 - **[website-mcp](https://github.com/AdinathChaudhari/website-mcp)** turns a website task into a saved, tested tool that runs with no model.<br>
   *Why:* an agent that re-reads the same site pays for a model on every run.<br>
   *Impact:* published on [npm](https://www.npmjs.com/package/website-mcp). The [demo tool](https://github.com/AdinathChaudhari/website-mcp#demo) passes 8 of 8 test cases with no model call.
 - **[preflight-review](https://github.com/AdinathChaudhari/preflight-review)** reviews a branch with AI before the push and reports only what it confirmed in the code.<br>
   *Why:* AI reviewers report guesses.<br>
   *Impact:* in the [seeded eval](https://github.com/AdinathChaudhari/preflight-review/blob/main/docs/measurements.md#eval-1--seeded-set-real-models-2026-10-30) on v1.0 it found 7 of 7 planted bugs, with 0 findings on the clean control. Recall on large real diffs is not measured yet.
-- **[i-cant-draw](https://github.com/AdinathChaudhari/i-cant-draw)** turns a rough image idea into a ready-to-paste prompt for ChatGPT or Gemini.<br>
-  *Why:* a rough idea pasted into an image model comes back with garbled text and a generic picture.<br>
-  *Impact:* its README shows [one brief rendered by both engines](https://github.com/AdinathChaudhari/i-cant-draw#see-it-work) with the title text intact. The illustrations on this page were made with it.
 
 ## Passion projects
 
@@ -56,6 +56,7 @@ Built for my own use first.
 
 Also built for myself:
 
+- **[i-cant-draw](https://github.com/AdinathChaudhari/i-cant-draw)** turns a rough image idea into a ready-to-paste prompt for ChatGPT or Gemini. The illustrations on this page were made with it.
 - **[ipod-movie-maker](https://github.com/AdinathChaudhari/ipod-movie-maker)** prepares video for an iPod touch and checks each file against the device's decoder limits.
 - **[housewatch](https://github.com/AdinathChaudhari/housewatch)** counts whole-house data usage from a router. A stretch it cannot prove is recorded as `unknown`, never estimated.
 - **[orchard-tv](https://github.com/AdinathChaudhari/orchard-tv)** is an Apple TV-style home screen for a Fire TV Stick, with a reset back to the stock launcher.
