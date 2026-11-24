@@ -5,7 +5,7 @@
   <em>Engineering at IIT Roorkee, management at INSEAD. I write the spec, then I build the tool.</em>
 </p>
 
-I take products from definition and system architecture to shipped software. These repositories are the hands-on side of that: tools I specified, built with AI agents and use myself.
+I take products from definition and system architecture to shipped software. These repositories are the hands-on side of that: tools I specified, built with AI agents and use myself. They range from a native Mac menu bar app in Swift to a Fire TV app in Kotlin, a Chrome extension with an MCP server, Claude Code plugins and Python pipelines.
 
 Most began as a problem of my own, however niche. When a project already fits my use case, I improve it upstream. When a good open-source engine exists, I build the workflow around it.
 
